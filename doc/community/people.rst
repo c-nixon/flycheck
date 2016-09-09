@@ -44,6 +44,16 @@ Mention with ``@flycheck/moderators``.
 
    If you’d like to help out with moderation, please contact a maintainer.
 
+.. _flycheck-packaging:
+
+Packaging
+---------
+
+This team provides packages of Flycheck for Emacs archives and distributions:
+
+* Sebastian Wiesner (:gh:`lunaryorn`, ELPA packages)
+* Sean Whitton (:gh:`spwhitton`, Debian packages)
+
 .. _flycheck-language-teams:
 
 Language teams
